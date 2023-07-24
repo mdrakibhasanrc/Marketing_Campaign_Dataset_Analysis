@@ -25,11 +25,11 @@ Identify the most effective ad creatives in terms of engagement and conversion r
 Explore the use of search tags (search_tags) and keywords (keywords) to understand the audience's interests and behavior.
 Optimize ad targeting by identifying the most relevant search tags and keywords for each campaign.
 
-#### Cost and Budget Management:
+### Cost and Budget Management:
 Monitor the campaign budgets (campaign_budget_usd) and ensure that they are aligned with the overall media costs (media_cost_usd).
 Analyze the media cost trends over time and take measures to control the cost while maintaining performance.
 
-#### Geographic and Demographic Insights:
+### Geographic and Demographic Insights:
 Utilize advertiser locations (advertiser_name) to understand regional performance variations.
 Segment the audience based on geographic and demographic factors to target specific user groups effectively.
 
@@ -40,7 +40,8 @@ Compare performance on weekdays and weekends (weekday_cat) to identify variation
 
 # Tools Used:
     1. Python
-    2. Data Modelling Luicd Chart
+    2. Data Modelling (Luicd Chart)
     3. ETL Script ( Python)
     4. Google Bigquery
-    5. Tableau/ Looker Studio
+    5. Mage AI
+    6. Tableau/ Looker Studio
