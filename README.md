@@ -43,5 +43,15 @@ Compare performance on weekdays and weekends (weekday_cat) to identify variation
     2. Data Modelling (Luicd Chart)
     3. ETL Script ( Python)
     4. Google Bigquery
-    5. Mage AI
-    6. Tableau/ Looker Studio
+    5. Tableau/ Looker Studio
+
+# Step:
+   1. Data Collection From Github and Data Modelling
+   2. Data Cleaning and Preprocessing using Python
+   3. Data Transform in Bigquery
+   4. Data Visualization in Looker Studio
+   5. 
+# Campaign Performance Analysis Dashboard
+<img src"https://github.com/mdrakibhasanrc/Marketing_Campaign_Dataset_Analysis/blob/main/Campaign%20Performance%20Analysis%20Dashboard.jpg" alt="Dashboard" title="Campaign Performance Analysis">
+
+
