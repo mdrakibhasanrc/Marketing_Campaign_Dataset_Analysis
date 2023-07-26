@@ -52,6 +52,7 @@ Compare performance on weekdays and weekends (weekday_cat) to identify variation
    4. Data Visualization in Looker Studio
    5. 
 # Campaign Performance Analysis Dashboard
-![campaign performance analysis] (https://github.com/mdrakibhasanrc/Marketing_Campaign_Dataset_Analysis/blob/main/Campaign%20Performance%20Analysis%20Dashboard.jpg)
+![campaign performance analysis](https://github.com/mdrakibhasanrc/Marketing_Campaign_Dataset_Analysis/blob/main/Campaign%20Performance%20Analysis%20Dashboard.jpg)
+
 
 
